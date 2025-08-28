@@ -74,7 +74,7 @@ I'm a passionate Full-Stack Developer specializing in .NET and Angular with a st
 
 <div align="center">
   
-![Snake animation](https://github.com/mahmou2waleed/mahmou2waleed/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/mahmou2waleed/mahmou2waleed/output/github-contribution-grid-snake.svg)
 
 </div>
 
