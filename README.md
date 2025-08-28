@@ -5,9 +5,11 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mahmoud0waleed"><img alt="LinkedIn" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>&nbsp;
   <a href="mailto:mahmoudwaleednassan@gmail.com"><img alt="Email" width="28px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=mahmou2waleed&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
+<p align="center">
+  <img src="http://readmecounter.runasp.net/api/badges/my-slug/svg" alt="Unique Visitors Badge" />
+</p>
 
 ## 👨‍💻 About Me
 
