@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # every 12 hours
+    - cron: "0 */12 * * *"   # every 12 hours (optional)
   workflow_dispatch:        # allow manual runs
 
 jobs:
@@ -18,18 +18,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate snake (light mode)
-        uses: Platane/snk/svg-only@v3
+      - name: Generate snake (light + dark)
+        # <-- full action (not svg-only)
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg
-
-      - name: Generate snake (dark mode)
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake-dark.svg
-          palette: github-dark  # 👈 important!
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
