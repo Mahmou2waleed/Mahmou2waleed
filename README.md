@@ -73,10 +73,13 @@ I'm a passionate Full-Stack Developer specializing in .NET and Angular with a st
 ---
 
 <div align="center">
-  <!-- Light-mode -->
-  ![Snake animation](https://mahmou2waleed.github.io/mahmou2waleed/snake.svg#gh-light-mode-only)
-  <!-- Dark-mode -->
-  ![Snake animation](https://mahmou2waleed.github.io/mahmou2waleed/snake-dark.svg#gh-dark-mode-only)
+  
+<!-- Light mode -->
+![Snake animation](https://mahmou2waleed.github.io/Mahmou2waleed/snake.svg#gh-light-mode-only)
+
+<!-- Dark mode -->
+![Snake animation](https://mahmou2waleed.github.io/Mahmou2waleed/snake-dark.svg#gh-dark-mode-only)
+
 </div>
 
 ---
