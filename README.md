@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="http://readmecounter.runasp.net/api/badges/my-slug/svg?ts=1693324800" alt="Unique Visitors Badge" />
+  <img src="http://readmecounter.runasp.net/api/badges/my-slug/svg?ts=1756468960262" alt="Unique Visitors Badge" />
 </p>
 
 ## 👨‍💻 About Me
