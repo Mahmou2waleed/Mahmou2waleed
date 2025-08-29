@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v3
       - name: Update timestamp in README
         run: |
-          TS=$(date +%s)
+          TS=$(date +%s%3N)
           sed -i "s|\(api/badges/mybadge/svg?ts=\)[0-9]*|\1$TS|" README.md
       - name: Commit changes
         run: |
