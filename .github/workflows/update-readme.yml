@@ -2,7 +2,7 @@ name: Update Visitor Badge
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # every 5 min
+   - cron: '*/5 * * * *' # every 5 minutes
   workflow_dispatch:
 
 jobs:
@@ -13,7 +13,7 @@ jobs:
       - name: Update timestamp in README
         run: |
           TS=$(date +%s%3N)
-          sed -i "s|\(api/badges/mybadge/svg?ts=\)[0-9]*|\1$TS|" README.md
+          sed -i "s|\(api/badges/my-slug/svg?ts=\)[0-9]*|\1$TS|" README.md
       - name: Commit changes
         run: |
           git config user.name "github-actions"
