@@ -11,6 +11,8 @@
   <img src="http://readmecounter.runasp.net/api/badges/my-slug/svg?ts=1756475933471" alt="Unique Visitors Badge" />
 </p>
 
+<img src="https://your-domain/debug/track.gif?src=github-readme" width="1" height="1" alt="" />
+
 ## 👨‍💻 About Me
 
 <img align="right" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" alt="Coding GIF" />
