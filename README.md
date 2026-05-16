@@ -8,58 +8,49 @@
 </p>
 
 <p align="center">
-  <img src="http://readmecounter.runasp.net/api/badges/my-slug/svg?ts=1778952813554" alt="Unique Visitors Badge" />
+  <img src="http://readmecounter.runasp.net/api/badges/my-slug/svg?ts=1778949336856" alt="Unique Visitors Badge" />
 </p>
 
 <img src="http://readmecounter.runasp.net/debug/track.gif?src=github-readme" width="1" height="1" alt="" />
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" alt="Coding GIF" />
+<img align="right" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="220" alt="Coding GIF" />
 
-I'm a passionate Full-Stack Developer specializing in .NET and Angular with a strong focus on building scalable, efficient web applications. I enjoy solving complex problems and continuously expanding my skill set.
+I am a **Full-Stack Developer** and Computer Science student at Zagazig University, focused on engineering high-fidelity, responsive web architecture. My expertise lies in bridging the gap between complex backend logic (.NET Core) and interactive, pixel-perfect frontends (Angular).
 
-- 🔭 **Currently building:** Multi-Vendor E-Commerce Platform  
-- 🌱 **Learning:** EF Core, CQRS + MediatR, Clean Architecture  
-- 💬 **Ask me about:** .NET 8, EF Core, REST APIs, Angular services & architecture  
-- 📫 **Reach me at:** [LinkedIn](https://linkedin.com/in/mahmoud0waleed) or [Email](mailto:mahmoudwaleednassan@gmail.com)  
-- ⚡ **Fun fact:** I enjoy optimizing code for performance and clean architecture  
+- 🚀 **Currently at:** [SpaceTech] - Developing enterprise CRM & Service Platform dashboards.
+- 🏗️ **Core Focus:** Clean Architecture, Domain-Driven Design (DDD), and Glassmorphism UI.
+- 🎓 **Education:** Bachelor of Computer Science (GPA: 3.55).
+- 🌱 **Refining Skills in:** CQRS + MediatR, Advanced EF Core, and Microservices.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend Development
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/EF%20Core-512BD4?logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+### 🌐 Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### Frontend Development
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white)
+### ⚙️ Backend
+![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahmou2waleed&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="175" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahmou2waleed&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
   
-<!-- Remove layout=compact to make the language stats wider -->
-<img src="https://github-readme-stats.vercel.app/api?username=mahmou2waleed&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&hide_title=true" height="170" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmou2waleed&show_icons=true&locale=en&theme=tokyonight&hide_border=true&hide_title=true" height="165" />  
+  <br/>
 
-<br />
-
-<img src="https://streak-stats.demolab.com?user=mahmou2waleed&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
-
+  <img src="https://streak-stats.demolab.com?user=mahmou2waleed&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
 </div>
 
 ---
